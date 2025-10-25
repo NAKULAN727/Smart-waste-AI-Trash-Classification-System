@@ -1,0 +1,1 @@
+we create an AI model called Smart Waste-AI Trash Classification System which predicts by giving image it will predict that the given image is organic or reusable or not. we haved used a pre trained model called MobileNetV2 which is faster than ResNet and used for small sized dataset
